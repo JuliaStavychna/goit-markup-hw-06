@@ -503,6 +503,9 @@ p {
 .footer-left-part {
   margin-right: 120px;
 }
+.footer-right-part {
+  margin-right: 80;
+}
 .footer-social-text {
   font-family: "Roboto";
   font-style: normal;
