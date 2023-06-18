@@ -739,9 +739,9 @@ p {
   margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 24px;
   letter-spacing: 0.02em;
-  color: var(--basic-color);
+  color: #2E2F42;
 }
 .project-link {
   display: block;
@@ -776,11 +776,13 @@ p {
   transform: translateY(0%);
 }
 .project-description {
-  font-weight: 500;
-  font-size: 20px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--basic-color);
+  color: #434455;
 }
 .projects-decription-container {
   position: relative;
